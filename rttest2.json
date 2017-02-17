@@ -1,0 +1,3 @@
+{"userId": "111", "userName": "aaa","RT": [{"rtid": 222,"count": 1}, {"rtid": 333,"count": 1}]}
+{"userId": "222", "userName": "bbb","RT": [{"rtid": 111,"count": 2}]}
+{"userId": "333", "userName": "ccc","RT": [{"rtid": 111,"count": 3}, {"rtid": 222,"count": 3}]}
